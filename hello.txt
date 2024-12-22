@@ -1,5 +1,6 @@
 "Hello, Git!" 
 "This is a new feature!" 
 "This change is from both branches"
-
 "This is a work-in-progress change." 
+"This is a cherry-pick example from the feature branch." 
+
